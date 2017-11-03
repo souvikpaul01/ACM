@@ -1,9 +1,10 @@
 #include<stdio.h>
 #include<stdlib.h>
+#include<conio.h>
 void pattern1()
 {
 	int i,j,n;
-	printf("Enter no. of rows : ");
+	printf("Enter no. of rows blah blah : ");
 	scanf("%d",&n);
 	for(i=0;i<n;i++)
 	{
